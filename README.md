@@ -1,6 +1,8 @@
+![sesgx logo](sesgx_header.png)
+
 # package-template
 
-> Template to quickly create a package for the SeSG ecossystem.
+> Template to quickly create a package for the SeSG ecosystem.
 
 ## How to use
 
@@ -20,7 +22,7 @@ To clone with `degit`:
 npx degit github:sesgx/package-template {package_name}
 ```
 
-### Updating informations
+### Updating information
 
 Start with the `pyproject.toml` file. Update the following keys:
 
@@ -30,7 +32,7 @@ Start with the `pyproject.toml` file. Update the following keys:
 
 If you intend on developing tests for the package, uncomment the `# TESTS-SECTION` section.
 
-Now, open the `_README.md` (attention to the underscore). Update the following informations:
+Now, open the `_README.md` (attention to the underscore). Update the following information:
 
 - First heading must be the name of the package.
 - First quote must be the description of the package, same used in the `pyproject.toml` file.

@@ -1,3 +1,5 @@
+
+![sesgx logo](sesgx_header.png)
 # package-name
 
 > Description (same that is provided in the pyproject.toml, which is the same as the repository description).
